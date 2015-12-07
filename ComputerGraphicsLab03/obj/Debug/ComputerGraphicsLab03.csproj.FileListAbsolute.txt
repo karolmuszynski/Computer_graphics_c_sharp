@@ -1,0 +1,27 @@
+d:\AppFiles\Visual Studio 2012\Projects\ComputerGraphicsLab03\ComputerGraphicsLab03\bin\Debug\ComputerGraphicsLab03.exe.config
+d:\AppFiles\Visual Studio 2012\Projects\ComputerGraphicsLab03\ComputerGraphicsLab03\bin\Debug\ComputerGraphicsLab03.exe
+d:\AppFiles\Visual Studio 2012\Projects\ComputerGraphicsLab03\ComputerGraphicsLab03\bin\Debug\ComputerGraphicsLab03.pdb
+d:\AppFiles\Visual Studio 2012\Projects\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.csprojResolveAssemblyReference.cache
+d:\AppFiles\Visual Studio 2012\Projects\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.Form1.resources
+d:\AppFiles\Visual Studio 2012\Projects\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.Properties.Resources.resources
+d:\AppFiles\Visual Studio 2012\Projects\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.csproj.GenerateResource.Cache
+d:\AppFiles\Visual Studio 2012\Projects\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.exe
+d:\AppFiles\Visual Studio 2012\Projects\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.pdb
+C:\Users\Karol\Desktop\ComputerGraphicsLab03\ComputerGraphicsLab03\bin\Debug\ComputerGraphicsLab03.exe.config
+C:\Users\Karol\Desktop\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.exe
+C:\Users\Karol\Desktop\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.pdb
+C:\Users\Karol\Desktop\ComputerGraphicsLab03\ComputerGraphicsLab03\bin\Debug\ComputerGraphicsLab03.exe
+C:\Users\Karol\Desktop\ComputerGraphicsLab03\ComputerGraphicsLab03\bin\Debug\ComputerGraphicsLab03.pdb
+C:\Users\Karol\Desktop\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.csprojResolveAssemblyReference.cache
+C:\Users\Karol\Desktop\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.Form1.resources
+C:\Users\Karol\Desktop\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.Properties.Resources.resources
+C:\Users\Karol\Desktop\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.csproj.GenerateResource.Cache
+D:\G_Drive\CS\Semestr 6\Computer Graphics\ComputerGraphicsLab03\ComputerGraphicsLab03\bin\Debug\ComputerGraphicsLab03.exe.config
+D:\G_Drive\CS\Semestr 6\Computer Graphics\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.exe
+D:\G_Drive\CS\Semestr 6\Computer Graphics\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.pdb
+D:\G_Drive\CS\Semestr 6\Computer Graphics\ComputerGraphicsLab03\ComputerGraphicsLab03\bin\Debug\ComputerGraphicsLab03.exe
+D:\G_Drive\CS\Semestr 6\Computer Graphics\ComputerGraphicsLab03\ComputerGraphicsLab03\bin\Debug\ComputerGraphicsLab03.pdb
+D:\G_Drive\CS\Semestr 6\Computer Graphics\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.csprojResolveAssemblyReference.cache
+D:\G_Drive\CS\Semestr 6\Computer Graphics\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.Form1.resources
+D:\G_Drive\CS\Semestr 6\Computer Graphics\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.Properties.Resources.resources
+D:\G_Drive\CS\Semestr 6\Computer Graphics\ComputerGraphicsLab03\ComputerGraphicsLab03\obj\Debug\ComputerGraphicsLab03.csproj.GenerateResource.Cache
